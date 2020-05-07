@@ -8,7 +8,7 @@ from flask import current_app
 
 @api.route("/index")
 def index():
-    #print("hello")
+    # print("hello")
     # logging.error()   # 记录错误信息
     # logging.warn()   # 警告
     # logging.info()   # 信息
